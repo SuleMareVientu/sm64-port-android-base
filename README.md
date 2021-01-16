@@ -23,7 +23,7 @@ This depends on your distro, but if you can build the PC port and you have Andro
 
 **Clone the repository:**
 ```sh
-git clone --recursive https://github.com/VDavid003/sm64-port-android-base
+git clone --recursive https://github.com/SuleMareVientu/sm64-port-android-base.git
 cd sm64-port-android-base
 ```
 
